@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "hoarding:blocks/crate_bottom",
+    "side": "hoarding:blocks/cornflower_crate_side",
+    "top": "hoarding:blocks/cornflower_crate_top",
+    "particle": "hoarding:blocks/crate_bottom"
+  }
+}

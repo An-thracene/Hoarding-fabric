@@ -1,0 +1,37 @@
+{
+  "fabric:load_conditions": [
+    {
+    "condition": "fabric:all_mods_loaded",
+    "values": [
+        "farmersdelight"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "tag": "c:berries"
+    },
+    {
+      "tag": "c:berries"
+    },
+    {
+      "item": "hoarding:pumpkin_slice"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:fruit_salad"
+  }
+}

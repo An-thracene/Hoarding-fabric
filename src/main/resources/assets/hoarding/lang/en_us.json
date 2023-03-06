@@ -1,0 +1,20 @@
+{
+  "itemGroup.hoarding.hoarding": "Hoarding",
+  "item.hoarding.pumpkin_slice": "Pumpkin slice",
+  "block.hoarding.baked_potato_crate": "Baked potato crate",
+  "block.hoarding.cactus_bundle": "Cactus bundle",
+  "block.hoarding.glistering_melon": "Glistering melon",
+  "block.hoarding.allium_crate": "Allium crate",
+  "block.hoarding.azure_bluet_crate": "Azure_bluet_crate",
+  "block.hoarding.blue_orchid_crate": "Blue_orchid_crate",
+  "block.hoarding.cornflower_crate": "Cornflower_crate",
+  "block.hoarding.dandelion_crate": "Dandelion crate",
+  "block.hoarding.lily_crate": "Lily crate",
+  "block.hoarding.orange_tulip_crate": "Orange tulip crate",
+  "block.hoarding.oxeye_daisy_crate": "Oxeye daisy crate",
+  "block.hoarding.pink_tulip_crate": "Pink tulip crate",
+  "block.hoarding.poppy_crate": "Poppy crate",
+  "block.hoarding.red_tulip_crate": "Red tulip crate",
+  "block.hoarding.white_tulip_crate": "White tulip crate",
+  "block.hoarding.wither_rose_crate": "Wither rose crate"
+}

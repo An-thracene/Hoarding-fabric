@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "hoarding:blocks/crate_bottom",
+    "side": "hoarding:blocks/white_tulip_crate_side",
+    "top": "hoarding:blocks/white_tulip_crate_top",
+    "particle": "hoarding:blocks/crate_bottom"
+  }
+}

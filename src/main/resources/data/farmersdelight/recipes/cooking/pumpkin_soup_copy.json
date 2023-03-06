@@ -1,0 +1,31 @@
+{
+  "fabric:load_conditions": [
+    {
+    "condition": "fabric:all_mods_loaded",
+    "values": [
+        "farmersdelight"
+      ]
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "hoarding:pumpkin_slice"
+    },
+    {
+      "tag": "c:salad_ingredients"
+    },
+    {
+      "tag": "c:raw_pork"
+    },
+    {
+      "tag": "c:milk"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:pumpkin_soup"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

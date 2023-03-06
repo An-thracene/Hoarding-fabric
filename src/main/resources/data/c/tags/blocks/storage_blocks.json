@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "hoarding:baked_potato_crate",
+    "hoarding:cactus_bundle",
+    "hoarding:glistering_melon",
+    "hoarding:allium_crate",
+    "hoarding:azure_bluet_crate",
+    "hoarding:blue_orchid_crate",
+    "hoarding:cornflower_crate",
+    "hoarding:dandelion_crate",
+    "hoarding:lily_crate",
+    "hoarding:orange_tulip_crate",
+    "hoarding:oxeye_daisy_crate",
+    "hoarding:pink_tulip_crate",
+    "hoarding:poppy_crate",
+    "hoarding:red_tulip_crate",
+    "hoarding:white_tulip_crate",
+    "hoarding:wither_rose_crate"
+  ]
+}

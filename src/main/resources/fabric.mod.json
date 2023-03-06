@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "hoarding",
+  "version": "${version}",
+  "name": "hoarding",
+  "description": "",
+  "authors": [
+    "Siming",
+    "星落"
+  ],
+  "contact": {
+    "repo": "https://github.com/An-thracene/hoarding-fabric"
+  },
+  "license": "MIT",
+  "icon": "assets/hoarding/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.siming.hoarding.client.HoardingClient"
+    ],
+    "main": [
+      "com.siming.hoarding.Hoarding"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.14",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  },
+  "suggests": {
+    "farmersdelight": "*"
+  }
+}

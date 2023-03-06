@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "hoarding:blocks/nether_crate_bottom",
+    "side": "hoarding:blocks/wither_rose_crate_side",
+    "top": "hoarding:blocks/wither_rose_crate_top",
+    "particle": "hoarding:blocks/nether_crate_bottom"
+  }
+}
