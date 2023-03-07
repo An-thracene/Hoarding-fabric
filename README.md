@@ -1,2 +1,2 @@
 # Hoarding-fabric
-Hoarding mod for fabric
+The fabric version of mod Hoarding
