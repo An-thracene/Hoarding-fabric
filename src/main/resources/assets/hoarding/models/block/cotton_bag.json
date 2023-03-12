@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "hoarding:block/cotton_bag_bottom",
+    "up": "hoarding:block/cotton_bag_top",
+    "north": "hoarding:block/cotton_bag_side_tied",
+    "south": "hoarding:block/cotton_bag_side_tied",
+    "east": "hoarding:block/cotton_bag_side",
+    "west": "hoarding:block/cotton_bag_side",
+    "particle": "hoarding:block/cotton_bag_top"
+  }
+}
