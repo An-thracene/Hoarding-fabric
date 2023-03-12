@@ -1,6 +1,6 @@
-package com.siming.hoarding.client.item;
+package net.xingluo.hoarding.item;
 
-import com.siming.hoarding.Hoarding;
+import net.xingluo.hoarding.Hoarding;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;

@@ -1,7 +1,7 @@
-package com.siming.hoarding;
+package net.xingluo.hoarding;
 
-import com.siming.hoarding.client.block.ModBlocks;
-import com.siming.hoarding.client.item.ModItems;
+import net.xingluo.hoarding.block.ModBlocks;
+import net.xingluo.hoarding.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

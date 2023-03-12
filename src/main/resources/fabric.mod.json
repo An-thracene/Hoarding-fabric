@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "hoarding",
-  "version": "1.0.1",
+  "version": "${version}",
   "name": "hoarding",
   "description": "",
   "authors": [
@@ -15,11 +15,8 @@
   "icon": "assets/hoarding/icon.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "com.siming.hoarding.client.HoardingClient"
-    ],
     "main": [
-      "com.siming.hoarding.Hoarding"
+      "net.xingluo.hoarding.Hoarding"
     ]
   },
   "depends": {

@@ -1,6 +1,6 @@
-package com.siming.hoarding.client.item;
+package net.xingluo.hoarding.item;
 
-import com.siming.hoarding.Hoarding;
+import net.xingluo.hoarding.Hoarding;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.FoodComponent;
 import net.minecraft.item.Item;
