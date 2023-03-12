@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "hoarding",
-  "version": "${version}",
+  "version": "1.0.1",
   "name": "hoarding",
   "description": "",
   "authors": [
