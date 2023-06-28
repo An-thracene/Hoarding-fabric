@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:pineapple_crate"
+      }
+    ],
+    "result": {
+      "item": "pineapple_delight:pineapple",
+      "count": 9
+    }
+  }

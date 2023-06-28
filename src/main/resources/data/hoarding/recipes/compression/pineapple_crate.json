@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "pineapple_delight:pineapple"
+      }
+    },
+    "result": {
+      "item": "hoarding:pineapple_crate",
+      "count": 1
+    }
+  }

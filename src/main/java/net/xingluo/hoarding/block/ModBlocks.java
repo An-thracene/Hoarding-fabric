@@ -63,6 +63,9 @@ public class ModBlocks {
                     .strength(2.0f,3.0f)));
     public static final Block COTTON_BAG =registerBlock("cotton_bag",
             new Block(FabricBlockSettings.copyOf(Blocks.WHITE_WOOL)));
+    public static final Block PINEAPPLE_CRATE =registerBlock("pineapple_crate",
+            new Block(FabricBlockSettings.of(Material.WOOD)
+                    .strength(2.0f,3.0f)));
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registry.BLOCK, new Identifier(Hoarding.MOD_ID, name), block);
