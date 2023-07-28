@@ -1,9 +1,7 @@
 {
   "parent": "minecraft:block/cube_bottom_top",
   "textures": {
-    "bottom": "hoarding:blocks/crate_bottom",
-    "side": "hoarding:blocks/dandelion_crate_side",
-    "top": "hoarding:blocks/dandelion_crate_top",
-    "particle": "hoarding:blocks/crate_bottom"
-  }
+    "bottom": "hoarding:block/crate_bottom",
+    "side": "hoarding:block/dandelion_crate_side",
+    "top": "hoarding:block/dandelion_crate_top"
 }
