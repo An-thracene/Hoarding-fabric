@@ -4,4 +4,5 @@
     "bottom": "hoarding:block/crate_bottom",
     "side": "hoarding:block/dandelion_crate_side",
     "top": "hoarding:block/dandelion_crate_top"
+  }
 }
