@@ -1,6 +1,7 @@
 package net.xingluo.hoarding;
 
 import net.xingluo.hoarding.block.ModBlocks;
+import net.xingluo.hoarding.item.ModItemGroup;
 import net.xingluo.hoarding.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -15,6 +16,7 @@ public class Hoarding implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        ModItemGroup.registerModItemGroup();
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
     }
